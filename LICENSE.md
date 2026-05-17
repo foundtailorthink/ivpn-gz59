@@ -1,10 +1,10 @@
-Ultra Seguro IVPN Utilitário | suporte IKEv2 + mascaramento de IP é o melhor IVPN utilitário com suporte IKEv2 e mascaramento de IP. Seguro e otimizado.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://foundtailorthink.github.io/ivpn-gz59/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
