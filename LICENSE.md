@@ -1,10 +1,10 @@
-فائق الأمان IVPN أداة | دعم IKEv2 + إخفاء IP هو أفضل IVPN أداة مع دعم IKEv2 و إخفاء IP. آمن ومُحَسّن.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://foundtailorthink.github.io/ivpn-gz59/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
