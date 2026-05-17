@@ -1,10 +1,10 @@
-Ultra-Secure IVPN Utility | IKEv2 support + IP masking is the best IVPN utility with IKEv2 support and IP masking. Secure and optimized.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://foundtailorthink.github.io/ivpn-gz59/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
